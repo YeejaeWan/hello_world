@@ -1,6 +1,6 @@
-# hello_world
+# Flutter 공부
 
-A new Flutter project.
+플러터 공부임 ㅅㄱ
 
 ## Getting Started
 
